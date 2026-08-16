@@ -65,6 +65,22 @@ img {
     margin-top: 20px;
     margin-bottom: 40px;
 }
+/* Full-page background override */
+.md-main {
+    background-color: #121212 !important; /* Charcoal */
+}
+
+.md-content {
+    background-color: #121212 !important;
+}
+
+.md-content__inner {
+    background-color: #121212 !important;
+}
+
+.md-typeset {
+    background-color: #121212 !important;
+}
 
 
 
