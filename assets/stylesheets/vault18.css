@@ -12,11 +12,11 @@
 
 /* Sidebar links */
 .md-nav__link {
-    color: #FFFFFF !important; /* White sidebar text */
+    color: #FFFFFF !important;
 }
 
 .md-nav__link:hover {
-    color: #39FF14 !important; /* Neon hover */
+    color: #39FF14 !important;
 }
 
 .md-nav__link--active {
@@ -33,7 +33,7 @@
     background-color: #8A2BE2 !important;
 }
 
-/* Global background */
+/* Material dark mode overrides */
 [data-md-color-scheme="slate"] {
     --md-default-bg-color: #121212 !important;
     --md-default-fg-color: #FFFFFF !important;
@@ -51,7 +51,7 @@
 
 /* Vault18 background logo */
 .md-main {
-    background-image: url('assets/images/vault18-logo.png');
+    background-image: url('../images/vault18-logo.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 600px;
