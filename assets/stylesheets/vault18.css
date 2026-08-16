@@ -51,12 +51,13 @@
 
 /* Vault18 background logo */
 .md-main {
-    background-image: url('../images/vault18-logo.png');
+    background-image: url('assets/images/vault18-logo.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 600px;
     background-attachment: fixed;
 }
+
 
 /* Darken behind text for readability */
 .md-main::before {
