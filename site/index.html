@@ -12,7 +12,7 @@
       
       
       
-        <link rel="next" href="pokemon/">
+        <link rel="next" href="bulk/">
       
       
         
@@ -49,6 +49,8 @@
       
     
     
+      <link rel="stylesheet" href="assets/stylesheets/vault18.css">
+    
     <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -60,10 +62,12 @@
   
     
     
+      
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="purple" data-md-color-accent="lime">
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="purple" data-md-color-accent="lime">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -72,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#welcome-to-vault18" class="md-skip">
+        <a href="#_1" class="md-skip">
           Skip to content
         </a>
       
@@ -115,7 +119,19 @@
     </div>
     
       
+        <form class="md-header__option" data-md-component="palette">
+  
     
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="purple" data-md-color-accent="lime"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
     
     
     
@@ -257,7 +273,7 @@
   <span class="md-ellipsis">
     
   
-    Magic
+    Bulk
   
 
     
@@ -273,7 +289,7 @@
             <span class="md-nav__icon md-icon"></span>
             
   
-    Magic
+    Bulk
   
 
           </label>
@@ -286,14 +302,14 @@
   
   
     <li class="md-nav__item">
-      <a href="mtg/index.md" class="md-nav__link">
+      <a href="bulk/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    All Cards
+    Index
   
 
     
@@ -339,7 +355,7 @@
   <span class="md-ellipsis">
     
   
-    Pokémon
+    Lorcana
   
 
     
@@ -355,7 +371,7 @@
             <span class="md-nav__icon md-icon"></span>
             
   
-    Pokémon
+    Lorcana
   
 
           </label>
@@ -368,14 +384,14 @@
   
   
     <li class="md-nav__item">
-      <a href="pokemon/" class="md-nav__link">
+      <a href="lorcana/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    All Cards
+    Index
   
 
     
@@ -421,7 +437,7 @@
   <span class="md-ellipsis">
     
   
-    Yu-Gi-Oh
+    Onepiece
   
 
     
@@ -437,7 +453,7 @@
             <span class="md-nav__icon md-icon"></span>
             
   
-    Yu-Gi-Oh
+    Onepiece
   
 
           </label>
@@ -450,14 +466,14 @@
   
   
     <li class="md-nav__item">
-      <a href="yugioh/" class="md-nav__link">
+      <a href="onepiece/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    All Cards
+    Index
   
 
     
@@ -503,7 +519,7 @@
   <span class="md-ellipsis">
     
   
-    Lorcana
+    Pokemon
   
 
     
@@ -519,7 +535,7 @@
             <span class="md-nav__icon md-icon"></span>
             
   
-    Lorcana
+    Pokemon
   
 
           </label>
@@ -532,14 +548,14 @@
   
   
     <li class="md-nav__item">
-      <a href="lorcana/" class="md-nav__link">
+      <a href="pokemon/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    All Cards
+    Index
   
 
     
@@ -585,7 +601,7 @@
   <span class="md-ellipsis">
     
   
-    One Piece
+    Yugioh
   
 
     
@@ -601,7 +617,7 @@
             <span class="md-nav__icon md-icon"></span>
             
   
-    One Piece
+    Yugioh
   
 
           </label>
@@ -614,96 +630,14 @@
   
   
     <li class="md-nav__item">
-      <a href="onepiece/" class="md-nav__link">
+      <a href="yugioh/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    All Cards
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
-        
-          
-          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Bulk
-  
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_7">
-            <span class="md-nav__icon md-icon"></span>
-            
-  
-    Bulk
-  
-
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="bulk/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    All Cards
+    Index
   
 
     
@@ -759,21 +693,28 @@
 
 
 
+<h1 id="_1"><p align="center"></h1>
+<h1 id="_2">&#x20; <img src="assets/images/vault18-logo.png" width="400"></h1>
+<h1 id="_3"></p></h1>
 <h1 id="welcome-to-vault18">Welcome to Vault18</h1>
 <p>Welcome to the official Vault18 Card Catalog.</p>
 <p>Browse our inventory by game type using the navigation menu on the left.</p>
-<p>This catalog includes:
-- Magic: The Gathering
-- Pokémon
-- Yu-Gi-Oh
-- Lorcana
-- One Piece
-- Bulk Collections</p>
-<p>Our branding colors:
-- <strong>Purple</strong>
-- <strong>Neon Green</strong>
-- <strong>Black</strong>
-- <strong>White</strong></p>
+<p>This catalog includes:</p>
+<ul>
+<li>Magic: The Gathering</li>
+<li>Pokémon</li>
+<li>Yu-Gi-Oh</li>
+<li>Lorcana</li>
+<li>One Piece</li>
+<li>Bulk Collections</li>
+</ul>
+<p>Our branding colors:</p>
+<ul>
+<li><strong>Purple</strong></li>
+<li><strong>Neon Green</strong></li>
+<li><strong>Black</strong></li>
+<li><strong>White</strong></li>
+</ul>
 <p>This site updates automatically as new cards are added.</p>
 
 

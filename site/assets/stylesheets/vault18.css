@@ -1,0 +1,91 @@
+/* Vault18 Theme */
+
+/* Header bar */
+.md-header {
+    background-color: #8A2BE2 !important;
+}
+
+/* Sidebar background */
+.md-sidebar {
+    background-color: #000000 !important;
+}
+
+/* Sidebar links */
+.md-nav__link {
+    color: #FFFFFF !important;
+}
+
+.md-nav__link:hover {
+    color: #39FF14 !important;
+}
+
+.md-nav__link--active {
+    color: #39FF14 !important;
+}
+
+/* Search bar */
+.md-search__input {
+    background-color: #1a1a1a !important;
+    color: #39FF14 !important;
+}
+
+.md-search__form {
+    background-color: #8A2BE2 !important;
+}
+
+/* Material dark mode overrides */
+[data-md-color-scheme="slate"] {
+    --md-default-bg-color: #121212 !important;
+    --md-default-fg-color: #FFFFFF !important;
+    --md-typeset-color: #FFFFFF !important;
+}
+
+/* Apply background + text */
+.md-main,
+.md-content,
+.md-content__inner,
+.md-typeset {
+    background-color: #121212 !important;
+    color: #FFFFFF !important;
+}
+
+/* Vault18 background logo */
+.md-main {
+    background-image: url('assets/images/vault18-logo.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 600px;
+    background-attachment: fixed;
+}
+
+
+/* Darken behind text for readability */
+.md-main::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.4);
+    z-index: -1;
+}
+
+/* Centered homepage logo */
+.home-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+/* Buttons */
+.md-button {
+    background-color: #8A2BE2 !important;
+    color: #FFFFFF !important;
+    border-radius: 6px;
+}
+
+/* Card images */
+img {
+    border: 2px solid #39FF14;
+    border-radius: 8px;
+}
