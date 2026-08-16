@@ -37,7 +37,7 @@
 
 /* Links */
 a {
-    color: #39FF14 !important;
+    color: #FFFFFF !important;
 }
 
 /* Buttons */
@@ -97,5 +97,54 @@ img {
     background-color: #121212 !important;
 }
 
+/* Global text color override */
+.md-typeset,
+.md-content,
+.md-content__inner,
+.md-main {
+    color: #FFFFFF !important;
+}
+
+/* Override Material dark mode text variables */
+[data-md-color-scheme="slate"] {
+    --md-default-fg-color: #FFFFFF !important;
+    --md-default-fg-color--light: #FFFFFF !important;
+    --md-default-fg-color--lighter: #FFFFFF !important;
+    --md-default-fg-color--lightest: #FFFFFF !important;
+}
+/* Vault18 background logo */
+.md-main {
+    background-image: url('assets/images/vault18-logo.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 600px;
+    background-attachment: fixed;
+}
+
+}
+.md-main::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.4); /* darkens behind text */
+    z-index: -1;
+}
+/* Force all text to white */
+[data-md-color-scheme="slate"] {
+    --md-default-fg-color: #FFFFFF !important;
+    --md-default-fg-color--light: #FFFFFF !important;
+    --md-default-fg-color--lighter: #FFFFFF !important;
+    --md-default-fg-color--lightest: #FFFFFF !important;
+
+    --md-typeset-color: #FFFFFF !important;
+}
+
+/* Apply to content areas */
+.md-typeset,
+.md-content,
+.md-content__inner,
+.md-main {
+    color: #FFFFFF !important;
+}
 
 
