@@ -14,7 +14,7 @@
 
 **Game:** Magic: The Gathering
 
-![Card Image](https://api.scryfall.com/cards/47666099-ffb2-4d07-a801-70524dba0837?format=image)
+![Card Image](https://api.scryfall.com/cards/47666099-ffb2-4d07-a801-70524dba0837?format=image&version=png)
 
 **Tags:**
 

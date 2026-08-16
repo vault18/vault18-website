@@ -3,7 +3,8 @@ import os
 
 # Scryfall image URL builder
 def scryfall_image_url(scryfall_id):
-    return f"https://api.scryfall.com/cards/{scryfall_id}?format=image"
+    return f"https://api.scryfall.com/cards/{scryfall_id}?format=image&version=png"
+
 
 # Rarity icon mapping
 RARITY_ICONS = {
