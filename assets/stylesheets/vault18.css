@@ -81,6 +81,21 @@ img {
 .md-typeset {
     background-color: #121212 !important;
 }
+/* Override Material dark mode background */
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+    --md-default-bg-color: #121212 !important;   /* Charcoal */
+    --md-primary-fg-color: #8A2BE2 !important;   /* Purple */
+    --md-accent-fg-color: #39FF14 !important;    /* Neon Green */
+}
+
+/* Apply background to main content */
+.md-main,
+.md-content,
+.md-content__inner,
+.md-typeset {
+    background-color: #121212 !important;
+}
 
 
 
