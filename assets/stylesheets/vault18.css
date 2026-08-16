@@ -52,3 +52,19 @@ img {
     border: 2px solid #39FF14;
     border-radius: 8px;
 }
+/* Softer background */
+.md-content {
+    background-color: #121212 !important; /* Charcoal */
+    color: #FFFFFF !important;
+}
+/* Centered homepage logo */
+.home-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+
+
