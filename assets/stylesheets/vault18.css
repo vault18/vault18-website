@@ -89,3 +89,11 @@ img {
     border: 2px solid #39FF14;
     border-radius: 8px;
 }
+/* Style the site title in the header */
+.md-header__title {
+    color: #FFFFFF !important;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-shadow: 0 0 8px #8A2BE2; /* Purple glow */
+}
+
