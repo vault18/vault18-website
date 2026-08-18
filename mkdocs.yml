@@ -2,7 +2,7 @@ site_name: Vault18 Card Catalog
 site_url: https://vault18.github.io
 
 extra_css:
-  - assets/stylesheets/vault18.css
+  - assets/stylesheets/vault18.css?v={{ build_date }}
 
 theme:
   name: material
@@ -15,3 +15,4 @@ theme:
     code: Roboto Mono
   logo: images/vault18-logo.png
   favicon: images/vault18-favicon.png
+

@@ -28,3 +28,21 @@ Our branding colors:
 
 This site updates automatically as new cards are added.
 
+<div class="grid cards">
+
+-   **Bulk**
+    ---
+    Browse bulk collections.
+
+-   **Pokémon**
+    ---
+    View Pokémon inventory.
+
+-   **Yu‑Gi‑Oh**
+    ---
+    Explore Yu‑Gi‑Oh cards.
+
+</div>
+
+
+
