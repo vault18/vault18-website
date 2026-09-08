@@ -15,4 +15,8 @@ theme:
     code: Roboto Mono
   logo: images/vault18-logo.png
   favicon: images/vault18-favicon.png
+nav:
+  - Home: index.md
+  - Magic:
+      - All Cards: mtg/index.md
 
