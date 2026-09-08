@@ -5,7 +5,6 @@ import os
 def scryfall_image_url(scryfall_id):
     return f"https://api.scryfall.com/cards/{scryfall_id}?format=image&version=png"
 
-
 # Rarity icon mapping
 RARITY_ICONS = {
     "common": "⬤",
@@ -14,24 +13,29 @@ RARITY_ICONS = {
     "mythic": "✶"
 }
 
-# Store card filenames for index page
 generated_cards = []
 
+# OPEN YOUR CSV
 with open('cards.csv', newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
+    reader.fieldnames = [name.strip().lower() for name in reader.fieldnames]
 
     for row in reader:
-        name = row['Card Name']
-        set_name = row['Set Name']
-        number = row['Collector Number']
-        rarity = row['Rarity'].lower()
-        condition = row['Condition']
-        finish = row['Finish']
-        language = row['Language']
-        scryfall_id = row['Scryfall ID']
+        name = row['name']
+        set_code = row['set code']
+        set_name = row['set name']
+        collector = row['collector number']
+        rarity = row['rarity'].lower()
+        quantity = row['quantity']
+        condition = row['condition']
+        finish = row['foil']
+        language = row['language']
+        scryfall_id = row['scryfall id']
+
+
+
 
         game = "mtg"
-
         folder = f"docs/{game}"
         os.makedirs(folder, exist_ok=True)
 
@@ -56,17 +60,17 @@ with open('cards.csv', newline='', encoding='utf-8') as csvfile:
 
         tags = [
             f"rarity:{rarity}",
-            f"set:{set_name}",
+            f"set:{set_code}",
             f"condition:{condition}",
             f"finish:{finish}",
             f"lang:{language}",
-            f"collector:{number}"
+            f"collector:{collector}"
         ]
 
         with open(filename, 'w', encoding='utf-8') as f:
             f.write(f"# {name}\n\n")
-            f.write(f"**Set:** {set_name}\n\n")
-            f.write(f"**Collector Number:** {number}\n\n")
+            f.write(f"**Set:** {set_name} ({set_code})\n\n")
+            f.write(f"**Collector Number:** {collector}\n\n")
             f.write(f"**Rarity:** {rarity_icon} {rarity.title()}\n\n")
             f.write(f"**Condition:** {condition}\n\n")
             f.write(f"**Finish:** {finish}\n\n")
@@ -83,6 +87,5 @@ with open(index_path, 'w', encoding='utf-8') as index:
     index.write("# All Magic: The Gathering Cards\n\n")
     index.write("Browse all MTG cards in the Vault18 catalog.\n\n")
 
-    # Sort alphabetically
     for safe_name, display_name in sorted(generated_cards, key=lambda x: x[1]):
         index.write(f"- [{display_name}]({safe_name}.md)\n")
