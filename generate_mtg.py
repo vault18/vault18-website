@@ -8,6 +8,7 @@ def slugify(name):
     name = name.strip('-')
     return name
 
+
 # Scryfall image URL builder
 def scryfall_image_url(scryfall_id):
     return f"https://api.scryfall.com/cards/{scryfall_id}?format=image&version=png"
@@ -39,12 +40,17 @@ with open('cards.csv', newline='', encoding='utf-8') as csvfile:
         language = row['language']
         scryfall_id = row['scryfall id']
 
+
+
+
         game = "mtg"
         folder = f"docs/{game}"
         os.makedirs(folder, exist_ok=True)
 
-        # MkDocs‑safe filename
-        safe_name = slugify(name)
+        # Fix illegal filename characters
+     safe_name = slugify(name)
+
+        )
 
         filename = f"{folder}/{safe_name}.md"
         generated_cards.append((safe_name, name))
