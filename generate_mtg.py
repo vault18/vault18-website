@@ -1,5 +1,12 @@
 import csv
 import os
+import re
+
+def slugify(name):
+    name = name.lower()
+    name = re.sub(r'[^a-z0-9]+', '-', name)
+    name = name.strip('-')
+    return name
 
 # Scryfall image URL builder
 def scryfall_image_url(scryfall_id):
@@ -32,25 +39,12 @@ with open('cards.csv', newline='', encoding='utf-8') as csvfile:
         language = row['language']
         scryfall_id = row['scryfall id']
 
-
-
-
         game = "mtg"
         folder = f"docs/{game}"
         os.makedirs(folder, exist_ok=True)
 
-        # Fix illegal filename characters
-        safe_name = (
-            name.replace("/", "-")
-                .replace("\\", "-")
-                .replace(":", "-")
-                .replace("*", "-")
-                .replace("?", "")
-                .replace("\"", "")
-                .replace("<", "")
-                .replace(">", "")
-                .replace("|", "")
-        )
+        # MkDocs‑safe filename
+        safe_name = slugify(name)
 
         filename = f"{folder}/{safe_name}.md"
         generated_cards.append((safe_name, name))
