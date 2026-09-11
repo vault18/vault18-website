@@ -1,91 +1,111 @@
-import csv
 import os
-import re
+import csv
+import json
+owned_cards = []
+from collections import defaultdict
 
-def slugify(name):
-    name = name.lower()
-    name = re.sub(r'[^a-z0-9]+', '-', name)
-    name = name.strip('-')
-    return name
+# We'll use a dictionary to track cards so we can build the set indexes in Step 3
+sets_data = defaultdict(list)
 
-
-# Scryfall image URL builder
-def scryfall_image_url(scryfall_id):
-    return f"https://api.scryfall.com/cards/{scryfall_id}?format=image&version=png"
-
-# Rarity icon mapping
-RARITY_ICONS = {
-    "common": "⬤",
-    "uncommon": "◆",
-    "rare": "★",
-    "mythic": "✶"
-}
-
-generated_cards = []
-
-# OPEN YOUR CSV
-with open('cards.csv', newline='', encoding='utf-8') as csvfile:
+cards_data = []
+with open('cards.csv', 'r', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
-    reader.fieldnames = [name.strip().lower() for name in reader.fieldnames]
-
     for row in reader:
-        name = row['name']
-        set_code = row['set code']
-        set_name = row['set name']
-        collector = row['collector number']
-        rarity = row['rarity'].lower()
-        quantity = row['quantity']
-        condition = row['condition']
-        finish = row['foil']
-        language = row['language']
-        scryfall_id = row['scryfall id']
+        cards_data.append(row)
+
+# --- STEP 1: GENERATE CARDS INTO SET FOLDERS ---
+for card in cards_data: # Replace with your actual loop variable
+    set_name = card["Set name"]
+    card_name = card["Name"]
+    # Add the lowercase name to our search inventory list
+    owned_cards.append(card_name.lower())
+    # Clean the names to prevent slashes from breaking file paths
+    safe_set_name = set_name.replace("/", "-").replace(":", "")
+    safe_card_name = card_name.replace("/", "-").replace(":", "")
+    
+    # 1. Create the Set folder dynamically
+    folder = f"docs/mtg/{safe_set_name}"
+    os.makedirs(folder, exist_ok=True)
+    
+    # 2. Extract extra details from your CSV
+    rarity = card.get("Rarity", "Unknown").capitalize()
+    condition = card.get("Condition", "Unknown")
+    quantity = card.get("Quantity", "1")
+    foil = card.get("Foil", "normal")
+    scryfall_id = card.get("Scryfall ID", "")
+
+    # Build the automatic image URL using the Scryfall API
+    image_url = f"https://api.scryfall.com/cards/{scryfall_id}?format=image" if scryfall_id else ""
+    image_markdown = f"![{card_name}]({image_url})" if scryfall_id else "*No image available*"
+
+    # Create a clean Markdown template for the page
+    markdown_content = f"""# {card_name}
+
+{image_markdown}
+
+## Collection Details
+| Detail | Value |
+|--------|-------|
+| **Set** | {set_name} |
+| **Rarity** | {rarity} |
+| **Condition** | {condition} |
+| **Finish** | {foil} |
+| **Owned** | {quantity} |
+"""
+
+    # Write the card file inside its specific Set folder
+    card_path = f"{folder}/{safe_card_name}.md"
+    with open(card_path, "w", encoding="utf-8") as f:
+        f.write(markdown_content)
+                
+    # 3. Save this card to our tracker for the index page later
+    sets_data[safe_set_name].append({
+        "name": card_name,
+        "filename": f"{safe_card_name}.md"
+    })
+
+# --- STEP 3: GENERATE SET INDEX PAGES ---
+for safe_set_name, cards in sets_data.items():
+    folder = f"docs/mtg/{safe_set_name}"
+    index_path = f"{folder}/index.md"
+    
+    # Write a clean overview page for the set
+    with open(index_path, "w", encoding="utf-8") as f:
+        f.write(f"# {safe_set_name}\n\n")
+        
+        # Sort cards alphabetically so they look nice on the index page
+        cards_sorted = sorted(cards, key=lambda x: x["name"])
+        for c in cards_sorted:
+            f.write(f"* [{c['name']}](./{c['filename']})\n")
+# --- STEP 4: GENERATE MAIN MTG GAME PAGE ---
+
+index_content = """# Magic: The Gathering Sets
+
+<div class="grid cards" markdown>
+"""
+
+# Loop through our sets alphabetically
+for safe_set_name in sorted(sets_data.keys()):
+    
+    display_name = safe_set_name.replace("-", " ").title()
+    
+    # Replace spaces with %20 so the markdown link doesn't break
+    url_path = safe_set_name.replace(" ", "%20")
+
+    index_content += f"""
+- **{display_name}**
+  ---
+  [Browse Set]({url_path}/index.md)
+"""
 
 
+# Close the HTML grid 
+index_content += "\n</div>\n"
 
-
-        game = "mtg"
-        folder = f"docs/{game}"
-        os.makedirs(folder, exist_ok=True)
-
-        # Fix illegal filename characters
-     safe_name = slugify(name)
-
-        )
-
-        filename = f"{folder}/{safe_name}.md"
-        generated_cards.append((safe_name, name))
-
-        rarity_icon = RARITY_ICONS.get(rarity, "⬤")
-        image_url = scryfall_image_url(scryfall_id)
-
-        tags = [
-            f"rarity:{rarity}",
-            f"set:{set_code}",
-            f"condition:{condition}",
-            f"finish:{finish}",
-            f"lang:{language}",
-            f"collector:{collector}"
-        ]
-
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(f"# {name}\n\n")
-            f.write(f"**Set:** {set_name} ({set_code})\n\n")
-            f.write(f"**Collector Number:** {collector}\n\n")
-            f.write(f"**Rarity:** {rarity_icon} {rarity.title()}\n\n")
-            f.write(f"**Condition:** {condition}\n\n")
-            f.write(f"**Finish:** {finish}\n\n")
-            f.write(f"**Language:** {language}\n\n")
-            f.write(f"**Game:** Magic: The Gathering\n\n")
-            f.write(f"![Card Image]({image_url})\n\n")
-            f.write("**Tags:**\n\n")
-            for tag in tags:
-                f.write(f"- {tag}\n")
-
-# Build index page
-index_path = "docs/mtg/index.md"
-with open(index_path, 'w', encoding='utf-8') as index:
-    index.write("# All Magic: The Gathering Cards\n\n")
-    index.write("Browse all MTG cards in the Vault18 catalog.\n\n")
-
-    for safe_name, display_name in sorted(generated_cards, key=lambda x: x[1]):
-        index.write(f"- [{display_name}]({safe_name}.md)\n")
+# Write the completed string to the main MTG index file
+with open("docs/mtg/index.md", "w", encoding="utf-8") as f:
+    f.write(index_content)
+# --- STEP 5: EXPORT JSON FOR SEARCH TOOL ---
+# Save our owned_cards list as a web-friendly JSON file
+with open("docs/mtg/inventory.json", "w", encoding="utf-8") as f:
+    json.dump(owned_cards, f)

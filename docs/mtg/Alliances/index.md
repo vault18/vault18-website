@@ -1,0 +1,16 @@
+# Alliances
+
+* [Aesthir Glider](./Aesthir Glider.md)
+* [Arcane Denial](./Arcane Denial.md)
+* [Awesome Presence](./Awesome Presence.md)
+* [Casting of Bones](./Casting of Bones.md)
+* [Fevered Strength](./Fevered Strength.md)
+* [Fyndhorn Druid](./Fyndhorn Druid.md)
+* [Mishra's Groundbreaker](./Mishra's Groundbreaker.md)
+* [Soldevi Adnate](./Soldevi Adnate.md)
+* [Soldevi Sentry](./Soldevi Sentry.md)
+* [Soldevi Steam Beast](./Soldevi Steam Beast.md)
+* [Soldevi Steam Beast](./Soldevi Steam Beast.md)
+* [Undergrowth](./Undergrowth.md)
+* [Viscerid Armor](./Viscerid Armor.md)
+* [Viscerid Armor](./Viscerid Armor.md)

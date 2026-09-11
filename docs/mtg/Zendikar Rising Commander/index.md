@@ -1,0 +1,17 @@
+# Zendikar Rising Commander
+
+* [Aetherize](./Aetherize.md)
+* [Embodiment of Insight](./Embodiment of Insight.md)
+* [Endless Obedience](./Endless Obedience.md)
+* [Faerie Vandal](./Faerie Vandal.md)
+* [Invisible Stalker](./Invisible Stalker.md)
+* [Keeper of Fables](./Keeper of Fables.md)
+* [Latchkey Faerie](./Latchkey Faerie.md)
+* [Marang River Prowler](./Marang River Prowler.md)
+* [Master Thief](./Master Thief.md)
+* [Military Intelligence](./Military Intelligence.md)
+* [Mina and Denn, Wildborn](./Mina and Denn, Wildborn.md)
+* [Open into Wonder](./Open into Wonder.md)
+* [Rise from the Grave](./Rise from the Grave.md)
+* [Soul Manipulation](./Soul Manipulation.md)
+* [Stinkdrinker Bandit](./Stinkdrinker Bandit.md)

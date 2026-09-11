@@ -1,0 +1,15 @@
+# RNA Guild Kit
+
+* [Cloudfin Raptor](./Cloudfin Raptor.md)
+* [Dramatic Rescue](./Dramatic Rescue.md)
+* [Elusive Krasis](./Elusive Krasis.md)
+* [Gruul Charm](./Gruul Charm.md)
+* [Nimbus Swimmer](./Nimbus Swimmer.md)
+* [Rakdos Cackler](./Rakdos Cackler.md)
+* [Sin Collector](./Sin Collector.md)
+* [Skarrgan Pit-Skulk](./Skarrgan Pit-Skulk.md)
+* [Skymark Roc](./Skymark Roc.md)
+* [Splatter Thug](./Splatter Thug.md)
+* [Thrill-Kill Assassin](./Thrill-Kill Assassin.md)
+* [Zhur-Taa Druid](./Zhur-Taa Druid.md)
+* [Zhur-Taa Swine](./Zhur-Taa Swine.md)

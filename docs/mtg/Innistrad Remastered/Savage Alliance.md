@@ -1,0 +1,12 @@
+# Savage Alliance
+
+![Savage Alliance](https://api.scryfall.com/cards/54bebcf4-7697-4b2d-9160-243cd447c1d4?format=image)
+
+## Collection Details
+| Detail | Value |
+|--------|-------|
+| **Set** | Innistrad Remastered |
+| **Rarity** | Uncommon |
+| **Condition** | near_mint |
+| **Finish** | normal |
+| **Owned** | 2 |

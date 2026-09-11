@@ -1,0 +1,18 @@
+# Magic 2012
+
+* [Alluring Siren](./Alluring Siren.md)
+* [Chasm Drake](./Chasm Drake.md)
+* [Demystify](./Demystify.md)
+* [Devouring Swarm](./Devouring Swarm.md)
+* [Dragon's Claw](./Dragon's Claw.md)
+* [Flight](./Flight.md)
+* [Goblin Piker](./Goblin Piker.md)
+* [Griffin Rider](./Griffin Rider.md)
+* [Ice Cage](./Ice Cage.md)
+* [Lifelink](./Lifelink.md)
+* [Onyx Mage](./Onyx Mage.md)
+* [Peregrine Griffin](./Peregrine Griffin.md)
+* [Rusted Sentinel](./Rusted Sentinel.md)
+* [Skywinder Drake](./Skywinder Drake.md)
+* [Stonehorn Dignitary](./Stonehorn Dignitary.md)
+* [Warpath Ghoul](./Warpath Ghoul.md)

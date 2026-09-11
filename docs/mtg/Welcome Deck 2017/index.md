@@ -1,0 +1,18 @@
+# Welcome Deck 2017
+
+* [Air Elemental](./Air Elemental.md)
+* [Certain Death](./Certain Death.md)
+* [Coral Merfolk](./Coral Merfolk.md)
+* [Divine Verdict](./Divine Verdict.md)
+* [Drag Under](./Drag Under.md)
+* [Falkenrath Reaver](./Falkenrath Reaver.md)
+* [Glory Seeker](./Glory Seeker.md)
+* [Inspiration](./Inspiration.md)
+* [Nightmare](./Nightmare.md)
+* [Sengir Vampire](./Sengir Vampire.md)
+* [Stalking Tiger](./Stalking Tiger.md)
+* [Standing Troops](./Standing Troops.md)
+* [Stealer of Secrets](./Stealer of Secrets.md)
+* [Stormfront Pegasus](./Stormfront Pegasus.md)
+* [Thundering Giant](./Thundering Giant.md)
+* [Tricks of the Trade](./Tricks of the Trade.md)

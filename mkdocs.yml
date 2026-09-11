@@ -9,16 +9,13 @@ theme:
   palette:
     - scheme: slate
       primary: purple
-      accent: lime
+      accent: green
   font:
     text: Roboto
     code: Roboto Mono
   logo: images/vault18-logo.png
   favicon: images/vault18-favicon.png
+markdown_extensions:
+  - attr_list
+  - md_in_html
 
-nav:
-  - Home: index.md
-  - Magic:
-      - All Cards: mtg/index.md
-
-   

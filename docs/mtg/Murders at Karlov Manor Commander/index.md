@@ -1,0 +1,17 @@
+# Murders at Karlov Manor Commander
+
+* [Boros Reckoner](./Boros Reckoner.md)
+* [Confirm Suspicions](./Confirm Suspicions.md)
+* [Deflecting Palm](./Deflecting Palm.md)
+* [Graf Mole](./Graf Mole.md)
+* [Lifecrafter's Bestiary](./Lifecrafter's Bestiary.md)
+* [Master of Pearls](./Master of Pearls.md)
+* [Mastery of the Unseen](./Mastery of the Unseen.md)
+* [Nantuko Vigilante](./Nantuko Vigilante.md)
+* [Nightveil Sprite](./Nightveil Sprite.md)
+* [Overseer of the Damned](./Overseer of the Damned.md)
+* [Pile On](./Pile On.md)
+* [Ransom Note](./Ransom Note.md)
+* [Thelonite Hermit](./Thelonite Hermit.md)
+* [Thoughtbound Phantasm](./Thoughtbound Phantasm.md)
+* [Vow of Duty](./Vow of Duty.md)
