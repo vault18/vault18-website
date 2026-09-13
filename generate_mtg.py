@@ -1,7 +1,5 @@
 import os
 import csv
-import json
-owned_cards = []
 from collections import defaultdict
 
 # We'll use a dictionary to track cards so we can build the set indexes in Step 3
@@ -17,8 +15,7 @@ with open('cards.csv', 'r', encoding='utf-8') as csvfile:
 for card in cards_data: # Replace with your actual loop variable
     set_name = card["Set name"]
     card_name = card["Name"]
-    # Add the lowercase name to our search inventory list
-    owned_cards.append(card_name.lower())
+    
     # Clean the names to prevent slashes from breaking file paths
     safe_set_name = set_name.replace("/", "-").replace(":", "")
     safe_card_name = card_name.replace("/", "-").replace(":", "")
@@ -57,7 +54,12 @@ for card in cards_data: # Replace with your actual loop variable
     card_path = f"{folder}/{safe_card_name}.md"
     with open(card_path, "w", encoding="utf-8") as f:
         f.write(markdown_content)
-                
+        
+    # 3. Save this card to our tracker for the index page later
+    sets_data[safe_set_name].append({
+        "name": card_name,
+        "filename": f"{safe_card_name}.md"
+    })        
     # 3. Save this card to our tracker for the index page later
     sets_data[safe_set_name].append({
         "name": card_name,
@@ -87,17 +89,15 @@ index_content = """# Magic: The Gathering Sets
 # Loop through our sets alphabetically
 for safe_set_name in sorted(sets_data.keys()):
     
+    # Make a clean display name (e.g., "adventures-in-the-forgotten-realms" -> "Adventures In The Forgotten Realms")
     display_name = safe_set_name.replace("-", " ").title()
-    
-    # Replace spaces with %20 so the markdown link doesn't break
-    url_path = safe_set_name.replace(" ", "%20")
 
+    # Add the formatted card for this set to our main string
     index_content += f"""
 - **{display_name}**
   ---
-  [Browse Set]({url_path}/index.md)
+  [Browse Set]({safe_set_name}/index.md)
 """
-
 
 # Close the HTML grid 
 index_content += "\n</div>\n"
@@ -105,7 +105,3 @@ index_content += "\n</div>\n"
 # Write the completed string to the main MTG index file
 with open("docs/mtg/index.md", "w", encoding="utf-8") as f:
     f.write(index_content)
-# --- STEP 5: EXPORT JSON FOR SEARCH TOOL ---
-# Save our owned_cards list as a web-friendly JSON file
-with open("docs/mtg/inventory.json", "w", encoding="utf-8") as f:
-    json.dump(owned_cards, f)
