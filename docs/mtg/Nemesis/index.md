@@ -1,9 +1,16 @@
 # Nemesis
 
 * [Belbe's Percher](./Belbe's Percher.md)
+* [Belbe's Percher](./Belbe's Percher.md)
+* [Daze](./Daze.md)
 * [Daze](./Daze.md)
 * [Oraxid](./Oraxid.md)
+* [Oraxid](./Oraxid.md)
+* [Parallax Dementia](./Parallax Dementia.md)
 * [Parallax Dementia](./Parallax Dementia.md)
 * [Phyrexian Driver](./Phyrexian Driver.md)
+* [Phyrexian Driver](./Phyrexian Driver.md)
 * [Seal of Doom](./Seal of Doom.md)
+* [Seal of Doom](./Seal of Doom.md)
+* [Spiteful Bully](./Spiteful Bully.md)
 * [Spiteful Bully](./Spiteful Bully.md)

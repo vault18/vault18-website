@@ -10,7 +10,7 @@ with open(outbound_file, mode='r', encoding='utf-8') as f:
     reader = csv.DictReader(f)
     for row in reader:
         # Create a unique key using Name and Set (adjust column names to match your CSV)
-        key = (row['Name'], row['Set']) 
+        key = (row['Name'], row['Set name']) 
         outbound_cards[key] = int(row['Quantity'])
 
 # 2. Process the master inventory
@@ -20,7 +20,7 @@ with open(master_file, mode='r', encoding='utf-8') as f:
     fieldnames = reader.fieldnames
     
     for row in reader:
-        key = (row['Name'], row['Set'])
+        key = (row['Name'], row['Set name'])
         
         # If the card is in the outbound list, reduce its quantity
         if key in outbound_cards:

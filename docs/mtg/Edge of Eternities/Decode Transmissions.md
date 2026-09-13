@@ -8,5 +8,5 @@
 | **Set** | Edge of Eternities |
 | **Rarity** | Common |
 | **Condition** | near_mint |
-| **Finish** | foil |
-| **Owned** | 1 |
+| **Finish** | normal |
+| **Owned** | 6 |

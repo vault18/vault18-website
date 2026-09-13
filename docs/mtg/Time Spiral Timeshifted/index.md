@@ -1,7 +1,8 @@
 # Time Spiral Timeshifted
 
-* [Consecrate Land](./Consecrate Land.md)
+* [Dandân](./Dandân.md)
 * [Dandân](./Dandân.md)
 * [Disenchant](./Disenchant.md)
-* [Kobold Taskmaster](./Kobold Taskmaster.md)
+* [Disenchant](./Disenchant.md)
+* [Swamp Mosquito](./Swamp Mosquito.md)
 * [Swamp Mosquito](./Swamp Mosquito.md)

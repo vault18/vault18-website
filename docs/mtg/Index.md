@@ -4,11 +4,11 @@
 
 - **Adventures In The Forgotten Realms**
   ---
-  [Browse Set](Adventures%20in%20the%20Forgotten%20Realms/index.md)
+  [Browse Set](Adventures in the Forgotten Realms/index.md)
 
 - **Aether Revolt**
   ---
-  [Browse Set](Aether%20Revolt/index.md)
+  [Browse Set](Aether Revolt/index.md)
 
 - **Aetherdrift**
   ---
@@ -16,11 +16,11 @@
 
 - **Aetherdrift Commander**
   ---
-  [Browse Set](Aetherdrift%20Commander/index.md)
+  [Browse Set](Aetherdrift Commander/index.md)
 
 - **Alara Reborn**
   ---
-  [Browse Set](Alara%20Reborn/index.md)
+  [Browse Set](Alara Reborn/index.md)
 
 - **Alliances**
   ---
@@ -44,31 +44,31 @@
 
 - **Archenemy Nicol Bolas**
   ---
-  [Browse Set](Archenemy%20Nicol%20Bolas/index.md)
+  [Browse Set](Archenemy Nicol Bolas/index.md)
 
 - **Assassin'S Creed**
   ---
-  [Browse Set](Assassin's%20Creed/index.md)
+  [Browse Set](Assassin's Creed/index.md)
 
 - **Avacyn Restored**
   ---
-  [Browse Set](Avacyn%20Restored/index.md)
+  [Browse Set](Avacyn Restored/index.md)
 
 - **Avatar The Last Airbender**
   ---
-  [Browse Set](Avatar%20The%20Last%20Airbender/index.md)
+  [Browse Set](Avatar The Last Airbender/index.md)
 
 - **Avatar The Last Airbender Eternal**
   ---
-  [Browse Set](Avatar%20The%20Last%20Airbender%20Eternal/index.md)
+  [Browse Set](Avatar The Last Airbender Eternal/index.md)
 
 - **Battle Royale Box Set**
   ---
-  [Browse Set](Battle%20Royale%20Box%20Set/index.md)
+  [Browse Set](Battle Royale Box Set/index.md)
 
 - **Battle For Zendikar**
   ---
-  [Browse Set](Battle%20for%20Zendikar/index.md)
+  [Browse Set](Battle for Zendikar/index.md)
 
 - **Battlebond**
   ---
@@ -76,11 +76,11 @@
 
 - **Beatdown Box Set**
   ---
-  [Browse Set](Beatdown%20Box%20Set/index.md)
+  [Browse Set](Beatdown Box Set/index.md)
 
 - **Betrayers Of Kamigawa**
   ---
-  [Browse Set](Betrayers%20of%20Kamigawa/index.md)
+  [Browse Set](Betrayers of Kamigawa/index.md)
 
 - **Bloomburrow**
   ---
@@ -88,15 +88,15 @@
 
 - **Bloomburrow Commander**
   ---
-  [Browse Set](Bloomburrow%20Commander/index.md)
+  [Browse Set](Bloomburrow Commander/index.md)
 
 - **Born Of The Gods**
   ---
-  [Browse Set](Born%20of%20the%20Gods/index.md)
+  [Browse Set](Born of the Gods/index.md)
 
 - **Champions Of Kamigawa**
   ---
-  [Browse Set](Champions%20of%20Kamigawa/index.md)
+  [Browse Set](Champions of Kamigawa/index.md)
 
 - **Chronicles**
   ---
@@ -104,7 +104,7 @@
 
 - **Classic Sixth Edition**
   ---
-  [Browse Set](Classic%20Sixth%20Edition/index.md)
+  [Browse Set](Classic Sixth Edition/index.md)
 
 - **Coldsnap**
   ---
@@ -112,63 +112,63 @@
 
 - **Coldsnap Theme Decks**
   ---
-  [Browse Set](Coldsnap%20Theme%20Decks/index.md)
+  [Browse Set](Coldsnap Theme Decks/index.md)
 
 - **Commander 2011**
   ---
-  [Browse Set](Commander%202011/index.md)
+  [Browse Set](Commander 2011/index.md)
 
 - **Commander 2014**
   ---
-  [Browse Set](Commander%202014/index.md)
+  [Browse Set](Commander 2014/index.md)
 
 - **Commander 2015**
   ---
-  [Browse Set](Commander%202015/index.md)
+  [Browse Set](Commander 2015/index.md)
 
 - **Commander 2016**
   ---
-  [Browse Set](Commander%202016/index.md)
+  [Browse Set](Commander 2016/index.md)
 
 - **Commander 2017**
   ---
-  [Browse Set](Commander%202017/index.md)
+  [Browse Set](Commander 2017/index.md)
 
 - **Commander 2018**
   ---
-  [Browse Set](Commander%202018/index.md)
+  [Browse Set](Commander 2018/index.md)
 
 - **Commander 2019**
   ---
-  [Browse Set](Commander%202019/index.md)
+  [Browse Set](Commander 2019/index.md)
 
 - **Commander 2020**
   ---
-  [Browse Set](Commander%202020/index.md)
+  [Browse Set](Commander 2020/index.md)
 
 - **Commander 2021**
   ---
-  [Browse Set](Commander%202021/index.md)
+  [Browse Set](Commander 2021/index.md)
 
 - **Commander Anthology**
   ---
-  [Browse Set](Commander%20Anthology/index.md)
+  [Browse Set](Commander Anthology/index.md)
 
 - **Commander Anthology Volume Ii**
   ---
-  [Browse Set](Commander%20Anthology%20Volume%20II/index.md)
+  [Browse Set](Commander Anthology Volume II/index.md)
 
 - **Commander Legends**
   ---
-  [Browse Set](Commander%20Legends/index.md)
+  [Browse Set](Commander Legends/index.md)
 
 - **Commander Legends Battle For Baldur'S Gate**
   ---
-  [Browse Set](Commander%20Legends%20Battle%20for%20Baldur's%20Gate/index.md)
+  [Browse Set](Commander Legends Battle for Baldur's Gate/index.md)
 
 - **Commander Masters**
   ---
-  [Browse Set](Commander%20Masters/index.md)
+  [Browse Set](Commander Masters/index.md)
 
 - **Conflux**
   ---
@@ -180,27 +180,27 @@
 
 - **Conspiracy Take The Crown**
   ---
-  [Browse Set](Conspiracy%20Take%20the%20Crown/index.md)
+  [Browse Set](Conspiracy Take the Crown/index.md)
 
 - **Core Set 2019**
   ---
-  [Browse Set](Core%20Set%202019/index.md)
+  [Browse Set](Core Set 2019/index.md)
 
 - **Core Set 2020**
   ---
-  [Browse Set](Core%20Set%202020/index.md)
+  [Browse Set](Core Set 2020/index.md)
 
 - **Core Set 2021**
   ---
-  [Browse Set](Core%20Set%202021/index.md)
+  [Browse Set](Core Set 2021/index.md)
 
 - **Crimson Vow Commander**
   ---
-  [Browse Set](Crimson%20Vow%20Commander/index.md)
+  [Browse Set](Crimson Vow Commander/index.md)
 
 - **Dark Ascension**
   ---
-  [Browse Set](Dark%20Ascension/index.md)
+  [Browse Set](Dark Ascension/index.md)
 
 - **Darksteel**
   ---
@@ -220,151 +220,151 @@
 
 - **Dominaria Remastered**
   ---
-  [Browse Set](Dominaria%20Remastered/index.md)
+  [Browse Set](Dominaria Remastered/index.md)
 
 - **Dominaria United**
   ---
-  [Browse Set](Dominaria%20United/index.md)
+  [Browse Set](Dominaria United/index.md)
 
 - **Dominaria United Commander**
   ---
-  [Browse Set](Dominaria%20United%20Commander/index.md)
+  [Browse Set](Dominaria United Commander/index.md)
 
 - **Double Masters**
   ---
-  [Browse Set](Double%20Masters/index.md)
+  [Browse Set](Double Masters/index.md)
 
 - **Double Masters 2022**
   ---
-  [Browse Set](Double%20Masters%202022/index.md)
+  [Browse Set](Double Masters 2022/index.md)
 
 - **Dragon'S Maze**
   ---
-  [Browse Set](Dragon's%20Maze/index.md)
+  [Browse Set](Dragon's Maze/index.md)
 
 - **Dragons Of Tarkir**
   ---
-  [Browse Set](Dragons%20of%20Tarkir/index.md)
+  [Browse Set](Dragons of Tarkir/index.md)
 
 - **Duel Decks Ajani Vs. Nicol Bolas**
   ---
-  [Browse Set](Duel%20Decks%20Ajani%20vs.%20Nicol%20Bolas/index.md)
+  [Browse Set](Duel Decks Ajani vs. Nicol Bolas/index.md)
 
 - **Duel Decks Anthology Divine Vs. Demonic**
   ---
-  [Browse Set](Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic/index.md)
+  [Browse Set](Duel Decks Anthology Divine vs. Demonic/index.md)
 
 - **Duel Decks Anthology Elves Vs. Goblins**
   ---
-  [Browse Set](Duel%20Decks%20Anthology%20Elves%20vs.%20Goblins/index.md)
+  [Browse Set](Duel Decks Anthology Elves vs. Goblins/index.md)
 
 - **Duel Decks Anthology Garruk Vs. Liliana**
   ---
-  [Browse Set](Duel%20Decks%20Anthology%20Garruk%20vs.%20Liliana/index.md)
+  [Browse Set](Duel Decks Anthology Garruk vs. Liliana/index.md)
 
 - **Duel Decks Anthology Jace Vs. Chandra**
   ---
-  [Browse Set](Duel%20Decks%20Anthology%20Jace%20vs.%20Chandra/index.md)
+  [Browse Set](Duel Decks Anthology Jace vs. Chandra/index.md)
 
 - **Duel Decks Blessed Vs. Cursed**
   ---
-  [Browse Set](Duel%20Decks%20Blessed%20vs.%20Cursed/index.md)
+  [Browse Set](Duel Decks Blessed vs. Cursed/index.md)
 
 - **Duel Decks Elspeth Vs. Kiora**
   ---
-  [Browse Set](Duel%20Decks%20Elspeth%20vs.%20Kiora/index.md)
+  [Browse Set](Duel Decks Elspeth vs. Kiora/index.md)
 
 - **Duel Decks Elspeth Vs. Tezzeret**
   ---
-  [Browse Set](Duel%20Decks%20Elspeth%20vs.%20Tezzeret/index.md)
+  [Browse Set](Duel Decks Elspeth vs. Tezzeret/index.md)
 
 - **Duel Decks Elves Vs. Inventors**
   ---
-  [Browse Set](Duel%20Decks%20Elves%20vs.%20Inventors/index.md)
+  [Browse Set](Duel Decks Elves vs. Inventors/index.md)
 
 - **Duel Decks Heroes Vs. Monsters**
   ---
-  [Browse Set](Duel%20Decks%20Heroes%20vs.%20Monsters/index.md)
+  [Browse Set](Duel Decks Heroes vs. Monsters/index.md)
 
 - **Duel Decks Izzet Vs. Golgari**
   ---
-  [Browse Set](Duel%20Decks%20Izzet%20vs.%20Golgari/index.md)
+  [Browse Set](Duel Decks Izzet vs. Golgari/index.md)
 
 - **Duel Decks Jace Vs. Vraska**
   ---
-  [Browse Set](Duel%20Decks%20Jace%20vs.%20Vraska/index.md)
+  [Browse Set](Duel Decks Jace vs. Vraska/index.md)
 
 - **Duel Decks Knights Vs. Dragons**
   ---
-  [Browse Set](Duel%20Decks%20Knights%20vs.%20Dragons/index.md)
+  [Browse Set](Duel Decks Knights vs. Dragons/index.md)
 
 - **Duel Decks Merfolk Vs. Goblins**
   ---
-  [Browse Set](Duel%20Decks%20Merfolk%20vs.%20Goblins/index.md)
+  [Browse Set](Duel Decks Merfolk vs. Goblins/index.md)
 
 - **Duel Decks Mind Vs. Might**
   ---
-  [Browse Set](Duel%20Decks%20Mind%20vs.%20Might/index.md)
+  [Browse Set](Duel Decks Mind vs. Might/index.md)
 
 - **Duel Decks Nissa Vs. Ob Nixilis**
   ---
-  [Browse Set](Duel%20Decks%20Nissa%20vs.%20Ob%20Nixilis/index.md)
+  [Browse Set](Duel Decks Nissa vs. Ob Nixilis/index.md)
 
 - **Duel Decks Phyrexia Vs. The Coalition**
   ---
-  [Browse Set](Duel%20Decks%20Phyrexia%20vs.%20the%20Coalition/index.md)
+  [Browse Set](Duel Decks Phyrexia vs. the Coalition/index.md)
 
 - **Duel Decks Sorin Vs. Tibalt**
   ---
-  [Browse Set](Duel%20Decks%20Sorin%20vs.%20Tibalt/index.md)
+  [Browse Set](Duel Decks Sorin vs. Tibalt/index.md)
 
 - **Duel Decks Speed Vs. Cunning**
   ---
-  [Browse Set](Duel%20Decks%20Speed%20vs.%20Cunning/index.md)
+  [Browse Set](Duel Decks Speed vs. Cunning/index.md)
 
 - **Duel Decks Venser Vs. Koth**
   ---
-  [Browse Set](Duel%20Decks%20Venser%20vs.%20Koth/index.md)
+  [Browse Set](Duel Decks Venser vs. Koth/index.md)
 
 - **Duel Decks Zendikar Vs. Eldrazi**
   ---
-  [Browse Set](Duel%20Decks%20Zendikar%20vs.%20Eldrazi/index.md)
+  [Browse Set](Duel Decks Zendikar vs. Eldrazi/index.md)
 
 - **Duels Of The Planeswalkers**
   ---
-  [Browse Set](Duels%20of%20the%20Planeswalkers/index.md)
+  [Browse Set](Duels of the Planeswalkers/index.md)
 
 - **Duskmourn House Of Horror**
   ---
-  [Browse Set](Duskmourn%20House%20of%20Horror/index.md)
+  [Browse Set](Duskmourn House of Horror/index.md)
 
 - **Duskmourn House Of Horror Commander**
   ---
-  [Browse Set](Duskmourn%20House%20of%20Horror%20Commander/index.md)
+  [Browse Set](Duskmourn House of Horror Commander/index.md)
 
 - **Edge Of Eternities**
   ---
-  [Browse Set](Edge%20of%20Eternities/index.md)
+  [Browse Set](Edge of Eternities/index.md)
 
 - **Edge Of Eternities Commander**
   ---
-  [Browse Set](Edge%20of%20Eternities%20Commander/index.md)
+  [Browse Set](Edge of Eternities Commander/index.md)
 
 - **Eighth Edition**
   ---
-  [Browse Set](Eighth%20Edition/index.md)
+  [Browse Set](Eighth Edition/index.md)
 
 - **Eldritch Moon**
   ---
-  [Browse Set](Eldritch%20Moon/index.md)
+  [Browse Set](Eldritch Moon/index.md)
 
 - **Eldritch Moon Promos**
   ---
-  [Browse Set](Eldritch%20Moon%20Promos/index.md)
+  [Browse Set](Eldritch Moon Promos/index.md)
 
 - **Eternal Masters**
   ---
-  [Browse Set](Eternal%20Masters/index.md)
+  [Browse Set](Eternal Masters/index.md)
 
 - **Eventide**
   ---
@@ -376,31 +376,39 @@
 
 - **Explorers Of Ixalan**
   ---
-  [Browse Set](Explorers%20of%20Ixalan/index.md)
+  [Browse Set](Explorers of Ixalan/index.md)
 
 - **Fallen Empires**
   ---
-  [Browse Set](Fallen%20Empires/index.md)
+  [Browse Set](Fallen Empires/index.md)
 
 - **Fate Reforged**
   ---
-  [Browse Set](Fate%20Reforged/index.md)
+  [Browse Set](Fate Reforged/index.md)
 
 - **Fifth Dawn**
   ---
-  [Browse Set](Fifth%20Dawn/index.md)
+  [Browse Set](Fifth Dawn/index.md)
 
 - **Fifth Edition**
   ---
-  [Browse Set](Fifth%20Edition/index.md)
+  [Browse Set](Fifth Edition/index.md)
 
 - **Final Fantasy**
   ---
-  [Browse Set](Final%20Fantasy/index.md)
+  [Browse Set](Final Fantasy/index.md)
+
+- **Final Fantasy Commander**
+  ---
+  [Browse Set](Final Fantasy Commander/index.md)
+
+- **Final Fantasy Through The Ages**
+  ---
+  [Browse Set](Final Fantasy Through the Ages/index.md)
 
 - **Forgotten Realms Commander**
   ---
-  [Browse Set](Forgotten%20Realms%20Commander/index.md)
+  [Browse Set](Forgotten Realms Commander/index.md)
 
 - **Foundations**
   ---
@@ -408,23 +416,23 @@
 
 - **Foundations Jumpstart**
   ---
-  [Browse Set](Foundations%20Jumpstart/index.md)
+  [Browse Set](Foundations Jumpstart/index.md)
 
 - **Fourth Edition**
   ---
-  [Browse Set](Fourth%20Edition/index.md)
+  [Browse Set](Fourth Edition/index.md)
 
 - **Friday Night Magic 2013**
   ---
-  [Browse Set](Friday%20Night%20Magic%202013/index.md)
+  [Browse Set](Friday Night Magic 2013/index.md)
 
 - **Future Sight**
   ---
-  [Browse Set](Future%20Sight/index.md)
+  [Browse Set](Future Sight/index.md)
 
 - **Grn Guild Kit**
   ---
-  [Browse Set](GRN%20Guild%20Kit/index.md)
+  [Browse Set](GRN Guild Kit/index.md)
 
 - **Gatecrash**
   ---
@@ -432,7 +440,7 @@
 
 - **Global Series Jiang Yanggu & Mu Yanling**
   ---
-  [Browse Set](Global%20Series%20Jiang%20Yanggu%20&%20Mu%20Yanling/index.md)
+  [Browse Set](Global Series Jiang Yanggu & Mu Yanling/index.md)
 
 - **Guildpact**
   ---
@@ -440,7 +448,7 @@
 
 - **Guilds Of Ravnica**
   ---
-  [Browse Set](Guilds%20of%20Ravnica/index.md)
+  [Browse Set](Guilds of Ravnica/index.md)
 
 - **Homelands**
   ---
@@ -448,19 +456,19 @@
 
 - **Hour Of Devastation**
   ---
-  [Browse Set](Hour%20of%20Devastation/index.md)
+  [Browse Set](Hour of Devastation/index.md)
 
 - **Ice Age**
   ---
-  [Browse Set](Ice%20Age/index.md)
+  [Browse Set](Ice Age/index.md)
 
 - **Iconic Masters**
   ---
-  [Browse Set](Iconic%20Masters/index.md)
+  [Browse Set](Iconic Masters/index.md)
 
 - **Ikoria Lair Of Behemoths**
   ---
-  [Browse Set](Ikoria%20Lair%20of%20Behemoths/index.md)
+  [Browse Set](Ikoria Lair of Behemoths/index.md)
 
 - **Innistrad**
   ---
@@ -468,19 +476,19 @@
 
 - **Innistrad Crimson Vow**
   ---
-  [Browse Set](Innistrad%20Crimson%20Vow/index.md)
+  [Browse Set](Innistrad Crimson Vow/index.md)
 
 - **Innistrad Double Feature**
   ---
-  [Browse Set](Innistrad%20Double%20Feature/index.md)
+  [Browse Set](Innistrad Double Feature/index.md)
 
 - **Innistrad Midnight Hunt**
   ---
-  [Browse Set](Innistrad%20Midnight%20Hunt/index.md)
+  [Browse Set](Innistrad Midnight Hunt/index.md)
 
 - **Innistrad Remastered**
   ---
-  [Browse Set](Innistrad%20Remastered/index.md)
+  [Browse Set](Innistrad Remastered/index.md)
 
 - **Invasion**
   ---
@@ -492,7 +500,7 @@
 
 - **Journey Into Nyx**
   ---
-  [Browse Set](Journey%20into%20Nyx/index.md)
+  [Browse Set](Journey into Nyx/index.md)
 
 - **Judgment**
   ---
@@ -504,7 +512,7 @@
 
 - **Jumpstart 2022**
   ---
-  [Browse Set](Jumpstart%202022/index.md)
+  [Browse Set](Jumpstart 2022/index.md)
 
 - **Kaladesh**
   ---
@@ -516,15 +524,15 @@
 
 - **Kaldheim Commander**
   ---
-  [Browse Set](Kaldheim%20Commander/index.md)
+  [Browse Set](Kaldheim Commander/index.md)
 
 - **Kamigawa Neon Dynasty**
   ---
-  [Browse Set](Kamigawa%20Neon%20Dynasty/index.md)
+  [Browse Set](Kamigawa Neon Dynasty/index.md)
 
 - **Khans Of Tarkir**
   ---
-  [Browse Set](Khans%20of%20Tarkir/index.md)
+  [Browse Set](Khans of Tarkir/index.md)
 
 - **Legions**
   ---
@@ -536,79 +544,83 @@
 
 - **Lorwyn Eclipsed**
   ---
-  [Browse Set](Lorwyn%20Eclipsed/index.md)
+  [Browse Set](Lorwyn Eclipsed/index.md)
 
 - **Lorwyn Eclipsed Commander**
   ---
-  [Browse Set](Lorwyn%20Eclipsed%20Commander/index.md)
+  [Browse Set](Lorwyn Eclipsed Commander/index.md)
 
 - **Magic 2010**
   ---
-  [Browse Set](Magic%202010/index.md)
+  [Browse Set](Magic 2010/index.md)
 
 - **Magic 2011**
   ---
-  [Browse Set](Magic%202011/index.md)
+  [Browse Set](Magic 2011/index.md)
 
 - **Magic 2012**
   ---
-  [Browse Set](Magic%202012/index.md)
+  [Browse Set](Magic 2012/index.md)
 
 - **Magic 2013**
   ---
-  [Browse Set](Magic%202013/index.md)
+  [Browse Set](Magic 2013/index.md)
 
 - **Magic 2014**
   ---
-  [Browse Set](Magic%202014/index.md)
+  [Browse Set](Magic 2014/index.md)
 
 - **Magic 2015**
   ---
-  [Browse Set](Magic%202015/index.md)
+  [Browse Set](Magic 2015/index.md)
 
 - **Magic Origins**
   ---
-  [Browse Set](Magic%20Origins/index.md)
+  [Browse Set](Magic Origins/index.md)
 
 - **March Of The Machine**
   ---
-  [Browse Set](March%20of%20the%20Machine/index.md)
+  [Browse Set](March of the Machine/index.md)
 
 - **March Of The Machine Commander**
   ---
-  [Browse Set](March%20of%20the%20Machine%20Commander/index.md)
+  [Browse Set](March of the Machine Commander/index.md)
+
+- **March Of The Machine The Aftermath**
+  ---
+  [Browse Set](March of the Machine The Aftermath/index.md)
 
 - **Marvel Super Heroes**
   ---
-  [Browse Set](Marvel%20Super%20Heroes/index.md)
+  [Browse Set](Marvel Super Heroes/index.md)
 
 - **Marvel Super Heroes Commander**
   ---
-  [Browse Set](Marvel%20Super%20Heroes%20Commander/index.md)
+  [Browse Set](Marvel Super Heroes Commander/index.md)
 
 - **Marvel Universe**
   ---
-  [Browse Set](Marvel%20Universe/index.md)
+  [Browse Set](Marvel Universe/index.md)
 
 - **Marvel'S Spider Man**
   ---
-  [Browse Set](Marvel's%20Spider-Man/index.md)
+  [Browse Set](Marvel's Spider-Man/index.md)
 
 - **Marvel'S Spider Man Eternal**
   ---
-  [Browse Set](Marvel's%20Spider-Man%20Eternal/index.md)
+  [Browse Set](Marvel's Spider-Man Eternal/index.md)
 
 - **Masters 25**
   ---
-  [Browse Set](Masters%2025/index.md)
+  [Browse Set](Masters 25/index.md)
 
 - **Mercadian Masques**
   ---
-  [Browse Set](Mercadian%20Masques/index.md)
+  [Browse Set](Mercadian Masques/index.md)
 
 - **Midnight Hunt Commander**
   ---
-  [Browse Set](Midnight%20Hunt%20Commander/index.md)
+  [Browse Set](Midnight Hunt Commander/index.md)
 
 - **Mirage**
   ---
@@ -620,43 +632,43 @@
 
 - **Mirrodin Besieged**
   ---
-  [Browse Set](Mirrodin%20Besieged/index.md)
+  [Browse Set](Mirrodin Besieged/index.md)
 
 - **Modern Event Deck 2014**
   ---
-  [Browse Set](Modern%20Event%20Deck%202014/index.md)
+  [Browse Set](Modern Event Deck 2014/index.md)
 
 - **Modern Horizons**
   ---
-  [Browse Set](Modern%20Horizons/index.md)
+  [Browse Set](Modern Horizons/index.md)
 
 - **Modern Horizons 2**
   ---
-  [Browse Set](Modern%20Horizons%202/index.md)
+  [Browse Set](Modern Horizons 2/index.md)
 
 - **Modern Horizons 2 Timeshifts**
   ---
-  [Browse Set](Modern%20Horizons%202%20Timeshifts/index.md)
+  [Browse Set](Modern Horizons 2 Timeshifts/index.md)
 
 - **Modern Horizons 3**
   ---
-  [Browse Set](Modern%20Horizons%203/index.md)
+  [Browse Set](Modern Horizons 3/index.md)
 
 - **Modern Horizons 3 Commander**
   ---
-  [Browse Set](Modern%20Horizons%203%20Commander/index.md)
+  [Browse Set](Modern Horizons 3 Commander/index.md)
 
 - **Modern Masters**
   ---
-  [Browse Set](Modern%20Masters/index.md)
+  [Browse Set](Modern Masters/index.md)
 
 - **Modern Masters 2015**
   ---
-  [Browse Set](Modern%20Masters%202015/index.md)
+  [Browse Set](Modern Masters 2015/index.md)
 
 - **Modern Masters 2017**
   ---
-  [Browse Set](Modern%20Masters%202017/index.md)
+  [Browse Set](Modern Masters 2017/index.md)
 
 - **Morningtide**
   ---
@@ -664,15 +676,15 @@
 
 - **Multiverse Legends**
   ---
-  [Browse Set](Multiverse%20Legends/index.md)
+  [Browse Set](Multiverse Legends/index.md)
 
 - **Murders At Karlov Manor**
   ---
-  [Browse Set](Murders%20at%20Karlov%20Manor/index.md)
+  [Browse Set](Murders at Karlov Manor/index.md)
 
 - **Murders At Karlov Manor Commander**
   ---
-  [Browse Set](Murders%20at%20Karlov%20Manor%20Commander/index.md)
+  [Browse Set](Murders at Karlov Manor Commander/index.md)
 
 - **Nemesis**
   ---
@@ -680,23 +692,23 @@
 
 - **Neon Dynasty Commander**
   ---
-  [Browse Set](Neon%20Dynasty%20Commander/index.md)
+  [Browse Set](Neon Dynasty Commander/index.md)
 
 - **New Capenna Commander**
   ---
-  [Browse Set](New%20Capenna%20Commander/index.md)
+  [Browse Set](New Capenna Commander/index.md)
 
 - **New Phyrexia**
   ---
-  [Browse Set](New%20Phyrexia/index.md)
+  [Browse Set](New Phyrexia/index.md)
 
 - **Ninth Edition**
   ---
-  [Browse Set](Ninth%20Edition/index.md)
+  [Browse Set](Ninth Edition/index.md)
 
 - **Oath Of The Gatewatch**
   ---
-  [Browse Set](Oath%20of%20the%20Gatewatch/index.md)
+  [Browse Set](Oath of the Gatewatch/index.md)
 
 - **Odyssey**
   ---
@@ -708,23 +720,23 @@
 
 - **Outlaws Of Thunder Junction**
   ---
-  [Browse Set](Outlaws%20of%20Thunder%20Junction/index.md)
+  [Browse Set](Outlaws of Thunder Junction/index.md)
 
 - **Outlaws Of Thunder Junction Commander**
   ---
-  [Browse Set](Outlaws%20of%20Thunder%20Junction%20Commander/index.md)
+  [Browse Set](Outlaws of Thunder Junction Commander/index.md)
 
 - **Phyrexia All Will Be One**
   ---
-  [Browse Set](Phyrexia%20All%20Will%20Be%20One/index.md)
+  [Browse Set](Phyrexia All Will Be One/index.md)
 
 - **Phyrexia All Will Be One Commander**
   ---
-  [Browse Set](Phyrexia%20All%20Will%20Be%20One%20Commander/index.md)
+  [Browse Set](Phyrexia All Will Be One Commander/index.md)
 
 - **Planar Chaos**
   ---
-  [Browse Set](Planar%20Chaos/index.md)
+  [Browse Set](Planar Chaos/index.md)
 
 - **Planechase**
   ---
@@ -732,7 +744,7 @@
 
 - **Planechase Anthology**
   ---
-  [Browse Set](Planechase%20Anthology/index.md)
+  [Browse Set](Planechase Anthology/index.md)
 
 - **Planeshift**
   ---
@@ -742,49 +754,53 @@
   ---
   [Browse Set](Portal/index.md)
 
+- **Portal Second Age**
+  ---
+  [Browse Set](Portal Second Age/index.md)
+
 - **Prophecy**
   ---
   [Browse Set](Prophecy/index.md)
 
 - **Rna Guild Kit**
   ---
-  [Browse Set](RNA%20Guild%20Kit/index.md)
+  [Browse Set](RNA Guild Kit/index.md)
 
 - **Ravnica Allegiance**
   ---
-  [Browse Set](Ravnica%20Allegiance/index.md)
+  [Browse Set](Ravnica Allegiance/index.md)
 
 - **Ravnica City Of Guilds**
   ---
-  [Browse Set](Ravnica%20City%20of%20Guilds/index.md)
+  [Browse Set](Ravnica City of Guilds/index.md)
 
 - **Ravnica Clue Edition**
   ---
-  [Browse Set](Ravnica%20Clue%20Edition/index.md)
+  [Browse Set](Ravnica Clue Edition/index.md)
 
 - **Ravnica Remastered**
   ---
-  [Browse Set](Ravnica%20Remastered/index.md)
+  [Browse Set](Ravnica Remastered/index.md)
 
 - **Return To Ravnica**
   ---
-  [Browse Set](Return%20to%20Ravnica/index.md)
+  [Browse Set](Return to Ravnica/index.md)
 
 - **Rise Of The Eldrazi**
   ---
-  [Browse Set](Rise%20of%20the%20Eldrazi/index.md)
+  [Browse Set](Rise of the Eldrazi/index.md)
 
 - **Rivals Of Ixalan**
   ---
-  [Browse Set](Rivals%20of%20Ixalan/index.md)
+  [Browse Set](Rivals of Ixalan/index.md)
 
 - **Saviors Of Kamigawa**
   ---
-  [Browse Set](Saviors%20of%20Kamigawa/index.md)
+  [Browse Set](Saviors of Kamigawa/index.md)
 
 - **Scars Of Mirrodin**
   ---
-  [Browse Set](Scars%20of%20Mirrodin/index.md)
+  [Browse Set](Scars of Mirrodin/index.md)
 
 - **Scourge**
   ---
@@ -792,23 +808,23 @@
 
 - **Secret Lair Drop**
   ---
-  [Browse Set](Secret%20Lair%20Drop/index.md)
+  [Browse Set](Secret Lair Drop/index.md)
 
 - **Secrets Of Strixhaven**
   ---
-  [Browse Set](Secrets%20of%20Strixhaven/index.md)
+  [Browse Set](Secrets of Strixhaven/index.md)
 
 - **Secrets Of Strixhaven Commander**
   ---
-  [Browse Set](Secrets%20of%20Strixhaven%20Commander/index.md)
+  [Browse Set](Secrets of Strixhaven Commander/index.md)
 
 - **Secrets Of Strixhaven Mystical Archive**
   ---
-  [Browse Set](Secrets%20of%20Strixhaven%20Mystical%20Archive/index.md)
+  [Browse Set](Secrets of Strixhaven Mystical Archive/index.md)
 
 - **Seventh Edition**
   ---
-  [Browse Set](Seventh%20Edition/index.md)
+  [Browse Set](Seventh Edition/index.md)
 
 - **Shadowmoor**
   ---
@@ -816,19 +832,19 @@
 
 - **Shadows Over Innistrad**
   ---
-  [Browse Set](Shadows%20over%20Innistrad/index.md)
+  [Browse Set](Shadows over Innistrad/index.md)
 
 - **Shards Of Alara**
   ---
-  [Browse Set](Shards%20of%20Alara/index.md)
+  [Browse Set](Shards of Alara/index.md)
 
 - **Streets Of New Capenna**
   ---
-  [Browse Set](Streets%20of%20New%20Capenna/index.md)
+  [Browse Set](Streets of New Capenna/index.md)
 
 - **Strixhaven School Of Mages**
   ---
-  [Browse Set](Strixhaven%20School%20of%20Mages/index.md)
+  [Browse Set](Strixhaven School of Mages/index.md)
 
 - **Stronghold**
   ---
@@ -836,27 +852,27 @@
 
 - **Tales Of Middle Earth Commander**
   ---
-  [Browse Set](Tales%20of%20Middle-earth%20Commander/index.md)
+  [Browse Set](Tales of Middle-earth Commander/index.md)
 
 - **Tarkir Dragonstorm**
   ---
-  [Browse Set](Tarkir%20Dragonstorm/index.md)
+  [Browse Set](Tarkir Dragonstorm/index.md)
 
 - **Tarkir Dragonstorm Commander**
   ---
-  [Browse Set](Tarkir%20Dragonstorm%20Commander/index.md)
+  [Browse Set](Tarkir Dragonstorm Commander/index.md)
 
 - **Teenage Mutant Ninja Turtles**
   ---
-  [Browse Set](Teenage%20Mutant%20Ninja%20Turtles/index.md)
+  [Browse Set](Teenage Mutant Ninja Turtles/index.md)
 
 - **Teenage Mutant Ninja Turtles Eternal**
   ---
-  [Browse Set](Teenage%20Mutant%20Ninja%20Turtles%20Eternal/index.md)
+  [Browse Set](Teenage Mutant Ninja Turtles Eternal/index.md)
 
 - **Teenage Mutant Ninja Turtles Source Material**
   ---
-  [Browse Set](Teenage%20Mutant%20Ninja%20Turtles%20Source%20Material/index.md)
+  [Browse Set](Teenage Mutant Ninja Turtles Source Material/index.md)
 
 - **Tempest**
   ---
@@ -864,31 +880,35 @@
 
 - **Tenth Edition**
   ---
-  [Browse Set](Tenth%20Edition/index.md)
+  [Browse Set](Tenth Edition/index.md)
 
 - **The Brothers' War**
   ---
-  [Browse Set](The%20Brothers'%20War/index.md)
+  [Browse Set](The Brothers' War/index.md)
 
 - **The Hobbit**
   ---
-  [Browse Set](The%20Hobbit/index.md)
+  [Browse Set](The Hobbit/index.md)
+
+- **The List**
+  ---
+  [Browse Set](The List/index.md)
 
 - **The Lord Of The Rings Tales Of Middle Earth**
   ---
-  [Browse Set](The%20Lord%20of%20the%20Rings%20Tales%20of%20Middle-earth/index.md)
+  [Browse Set](The Lord of the Rings Tales of Middle-earth/index.md)
 
 - **The Lost Caverns Of Ixalan**
   ---
-  [Browse Set](The%20Lost%20Caverns%20of%20Ixalan/index.md)
+  [Browse Set](The Lost Caverns of Ixalan/index.md)
 
 - **The Lost Caverns Of Ixalan Commander**
   ---
-  [Browse Set](The%20Lost%20Caverns%20of%20Ixalan%20Commander/index.md)
+  [Browse Set](The Lost Caverns of Ixalan Commander/index.md)
 
 - **The Zeta Set**
   ---
-  [Browse Set](The%20Zeta%20Set/index.md)
+  [Browse Set](The Zeta Set/index.md)
 
 - **Theros**
   ---
@@ -896,23 +916,23 @@
 
 - **Theros Beyond Death**
   ---
-  [Browse Set](Theros%20Beyond%20Death/index.md)
+  [Browse Set](Theros Beyond Death/index.md)
 
 - **Throne Of Eldraine**
   ---
-  [Browse Set](Throne%20of%20Eldraine/index.md)
+  [Browse Set](Throne of Eldraine/index.md)
 
 - **Time Spiral**
   ---
-  [Browse Set](Time%20Spiral/index.md)
+  [Browse Set](Time Spiral/index.md)
 
 - **Time Spiral Remastered**
   ---
-  [Browse Set](Time%20Spiral%20Remastered/index.md)
+  [Browse Set](Time Spiral Remastered/index.md)
 
 - **Time Spiral Timeshifted**
   ---
-  [Browse Set](Time%20Spiral%20Timeshifted/index.md)
+  [Browse Set](Time Spiral Timeshifted/index.md)
 
 - **Torment**
   ---
@@ -920,7 +940,7 @@
 
 - **Ultimate Masters**
   ---
-  [Browse Set](Ultimate%20Masters/index.md)
+  [Browse Set](Ultimate Masters/index.md)
 
 - **Unfinity**
   ---
@@ -940,15 +960,15 @@
 
 - **Urza'S Destiny**
   ---
-  [Browse Set](Urza's%20Destiny/index.md)
+  [Browse Set](Urza's Destiny/index.md)
 
 - **Urza'S Legacy**
   ---
-  [Browse Set](Urza's%20Legacy/index.md)
+  [Browse Set](Urza's Legacy/index.md)
 
 - **Urza'S Saga**
   ---
-  [Browse Set](Urza's%20Saga/index.md)
+  [Browse Set](Urza's Saga/index.md)
 
 - **Visions**
   ---
@@ -956,7 +976,7 @@
 
 - **War Of The Spark**
   ---
-  [Browse Set](War%20of%20the%20Spark/index.md)
+  [Browse Set](War of the Spark/index.md)
 
 - **Weatherlight**
   ---
@@ -964,27 +984,23 @@
 
 - **Welcome Deck 2016**
   ---
-  [Browse Set](Welcome%20Deck%202016/index.md)
+  [Browse Set](Welcome Deck 2016/index.md)
 
 - **Welcome Deck 2017**
   ---
-  [Browse Set](Welcome%20Deck%202017/index.md)
+  [Browse Set](Welcome Deck 2017/index.md)
 
 - **Wilds Of Eldraine**
   ---
-  [Browse Set](Wilds%20of%20Eldraine/index.md)
+  [Browse Set](Wilds of Eldraine/index.md)
 
 - **Wilds Of Eldraine Commander**
   ---
-  [Browse Set](Wilds%20of%20Eldraine%20Commander/index.md)
-
-- **Wilds Of Eldraine Enchanting Tales**
-  ---
-  [Browse Set](Wilds%20of%20Eldraine%20Enchanting%20Tales/index.md)
+  [Browse Set](Wilds of Eldraine Commander/index.md)
 
 - **Wizards Play Network 2026**
   ---
-  [Browse Set](Wizards%20Play%20Network%202026/index.md)
+  [Browse Set](Wizards Play Network 2026/index.md)
 
 - **Worldwake**
   ---
@@ -996,10 +1012,10 @@
 
 - **Zendikar Rising**
   ---
-  [Browse Set](Zendikar%20Rising/index.md)
+  [Browse Set](Zendikar Rising/index.md)
 
 - **Zendikar Rising Commander**
   ---
-  [Browse Set](Zendikar%20Rising%20Commander/index.md)
+  [Browse Set](Zendikar Rising Commander/index.md)
 
 </div>

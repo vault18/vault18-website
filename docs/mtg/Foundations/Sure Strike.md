@@ -8,5 +8,5 @@
 | **Set** | Foundations |
 | **Rarity** | Common |
 | **Condition** | near_mint |
-| **Finish** | foil |
-| **Owned** | 1 |
+| **Finish** | normal |
+| **Owned** | 7 |

@@ -1,6 +1,6 @@
 # Avengers Disassembled
 
-![Avengers Disassembled](https://api.scryfall.com/cards/72d3e750-870b-497d-80d7-e3df097db554?format=image)
+![Avengers Disassembled](https://api.scryfall.com/cards/c1e9b598-a3a4-4d31-8f74-532415725b70?format=image)
 
 ## Collection Details
 | Detail | Value |
@@ -9,4 +9,4 @@
 | **Rarity** | Rare |
 | **Condition** | near_mint |
 | **Finish** | normal |
-| **Owned** | 2 |
+| **Owned** | 1 |

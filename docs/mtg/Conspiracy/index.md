@@ -1,7 +1,16 @@
 # Conspiracy
 
 * [Aether Tradewinds](./Aether Tradewinds.md)
+* [Aether Tradewinds](./Aether Tradewinds.md)
+* [Favorable Winds](./Favorable Winds.md)
+* [Favorable Winds](./Favorable Winds.md)
+* [Flaring Flame-Kin](./Flaring Flame-Kin.md)
 * [Flaring Flame-Kin](./Flaring Flame-Kin.md)
 * [Pillarfield Ox](./Pillarfield Ox.md)
+* [Pillarfield Ox](./Pillarfield Ox.md)
 * [Plated Seastrider](./Plated Seastrider.md)
+* [Plated Seastrider](./Plated Seastrider.md)
+* [Traveler's Cloak](./Traveler's Cloak.md)
+* [Traveler's Cloak](./Traveler's Cloak.md)
+* [Zombie Goliath](./Zombie Goliath.md)
 * [Zombie Goliath](./Zombie Goliath.md)

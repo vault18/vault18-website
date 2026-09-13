@@ -1,4 +1,16 @@
 # Murders at Karlov Manor
 
+* [Furtive Courier](./Furtive Courier.md)
+* [Furtive Courier](./Furtive Courier.md)
 * [Inside Source](./Inside Source.md)
+* [Inside Source](./Inside Source.md)
+* [Not on My Watch](./Not on My Watch.md)
+* [Not on My Watch](./Not on My Watch.md)
+* [Sanguine Savior](./Sanguine Savior.md)
+* [Sanguine Savior](./Sanguine Savior.md)
+* [Treacherous Greed](./Treacherous Greed.md)
+* [Treacherous Greed](./Treacherous Greed.md)
 * [Undergrowth Recon](./Undergrowth Recon.md)
+* [Undergrowth Recon](./Undergrowth Recon.md)
+* [Wispdrinker Vampire](./Wispdrinker Vampire.md)
+* [Wispdrinker Vampire](./Wispdrinker Vampire.md)

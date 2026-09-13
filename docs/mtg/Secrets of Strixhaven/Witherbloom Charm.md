@@ -8,5 +8,5 @@
 | **Set** | Secrets of Strixhaven |
 | **Rarity** | Uncommon |
 | **Condition** | near_mint |
-| **Finish** | normal |
-| **Owned** | 4 |
+| **Finish** | foil |
+| **Owned** | 1 |

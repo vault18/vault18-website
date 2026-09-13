@@ -1,3 +1,4 @@
 # Secret Lair Drop
 
-* [Intruder Alarm](./Intruder Alarm.md)
+* [Lightning Greaves](./Lightning Greaves.md)
+* [Lightning Greaves](./Lightning Greaves.md)

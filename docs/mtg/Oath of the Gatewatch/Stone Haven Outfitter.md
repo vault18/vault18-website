@@ -9,4 +9,4 @@
 | **Rarity** | Rare |
 | **Condition** | near_mint |
 | **Finish** | normal |
-| **Owned** | 3 |
+| **Owned** | 2 |

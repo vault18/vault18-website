@@ -8,5 +8,5 @@
 | **Set** | Marvel Super Heroes |
 | **Rarity** | Uncommon |
 | **Condition** | near_mint |
-| **Finish** | foil |
-| **Owned** | 2 |
+| **Finish** | normal |
+| **Owned** | 1 |

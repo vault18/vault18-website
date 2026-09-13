@@ -9,4 +9,4 @@
 | **Rarity** | Mythic |
 | **Condition** | near_mint |
 | **Finish** | normal |
-| **Owned** | 2 |
+| **Owned** | 1 |

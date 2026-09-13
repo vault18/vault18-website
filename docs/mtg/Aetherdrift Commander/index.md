@@ -1,8 +1,18 @@
 # Aetherdrift Commander
 
 * [Attune with Aether](./Attune with Aether.md)
+* [Attune with Aether](./Attune with Aether.md)
+* [Binding Mummy](./Binding Mummy.md)
 * [Binding Mummy](./Binding Mummy.md)
 * [Cast Out](./Cast Out.md)
+* [Cast Out](./Cast Out.md)
 * [Era of Innovation](./Era of Innovation.md)
+* [Era of Innovation](./Era of Innovation.md)
+* [Ornithopter of Paradise](./Ornithopter of Paradise.md)
+* [Ornithopter of Paradise](./Ornithopter of Paradise.md)
 * [Twisted Abomination](./Twisted Abomination.md)
+* [Twisted Abomination](./Twisted Abomination.md)
+* [Undead Augur](./Undead Augur.md)
+* [Undead Augur](./Undead Augur.md)
+* [Whirler Rogue](./Whirler Rogue.md)
 * [Whirler Rogue](./Whirler Rogue.md)

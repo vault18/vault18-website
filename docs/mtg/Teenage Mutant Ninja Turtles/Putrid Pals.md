@@ -9,4 +9,4 @@
 | **Rarity** | Common |
 | **Condition** | near_mint |
 | **Finish** | foil |
-| **Owned** | 5 |
+| **Owned** | 6 |

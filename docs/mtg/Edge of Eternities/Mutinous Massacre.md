@@ -1,6 +1,6 @@
 # Mutinous Massacre
 
-![Mutinous Massacre](https://api.scryfall.com/cards/b4bdb1ac-abe2-4ce7-84cb-eb53196b4b01?format=image)
+![Mutinous Massacre](https://api.scryfall.com/cards/42d5034f-18f0-4d57-9840-6be52c286247?format=image)
 
 ## Collection Details
 | Detail | Value |
@@ -8,5 +8,5 @@
 | **Set** | Edge of Eternities |
 | **Rarity** | Rare |
 | **Condition** | near_mint |
-| **Finish** | foil |
+| **Finish** | normal |
 | **Owned** | 1 |

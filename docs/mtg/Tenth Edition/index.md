@@ -1,9 +1,16 @@
 # Tenth Edition
 
 * [Elvish Berserker](./Elvish Berserker.md)
+* [Elvish Berserker](./Elvish Berserker.md)
+* [Kavu Climber](./Kavu Climber.md)
 * [Kavu Climber](./Kavu Climber.md)
 * [Luminesce](./Luminesce.md)
+* [Luminesce](./Luminesce.md)
+* [Recover](./Recover.md)
 * [Recover](./Recover.md)
 * [Regeneration](./Regeneration.md)
+* [Regeneration](./Regeneration.md)
 * [Rushwood Dryad](./Rushwood Dryad.md)
+* [Rushwood Dryad](./Rushwood Dryad.md)
+* [Snapping Drake](./Snapping Drake.md)
 * [Snapping Drake](./Snapping Drake.md)

@@ -8,5 +8,5 @@
 | **Set** | The Hobbit |
 | **Rarity** | Common |
 | **Condition** | near_mint |
-| **Finish** | foil |
+| **Finish** | normal |
 | **Owned** | 1 |

@@ -1,6 +1,6 @@
 # Captain America, Super-Soldier
 
-![Captain America, Super-Soldier](https://api.scryfall.com/cards/33631d6c-c584-42ff-afe5-2647b5fb321f?format=image)
+![Captain America, Super-Soldier](https://api.scryfall.com/cards/7ffdca9d-3ee4-4572-b1ad-4f03523968fd?format=image)
 
 ## Collection Details
 | Detail | Value |

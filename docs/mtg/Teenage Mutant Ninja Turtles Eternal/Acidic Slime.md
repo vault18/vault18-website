@@ -8,5 +8,5 @@
 | **Set** | Teenage Mutant Ninja Turtles Eternal |
 | **Rarity** | Uncommon |
 | **Condition** | near_mint |
-| **Finish** | normal |
-| **Owned** | 3 |
+| **Finish** | foil |
+| **Owned** | 1 |

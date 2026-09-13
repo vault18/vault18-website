@@ -1,9 +1,18 @@
 # Lorwyn Eclipsed Commander
 
+* [Abundant Growth](./Abundant Growth.md)
+* [Abundant Growth](./Abundant Growth.md)
+* [Cathartic Reunion](./Cathartic Reunion.md)
 * [Cathartic Reunion](./Cathartic Reunion.md)
 * [Elemental Spectacle](./Elemental Spectacle.md)
+* [Elemental Spectacle](./Elemental Spectacle.md)
+* [Hoofprints of the Stag](./Hoofprints of the Stag.md)
 * [Hoofprints of the Stag](./Hoofprints of the Stag.md)
 * [Impulsivity](./Impulsivity.md)
+* [Impulsivity](./Impulsivity.md)
+* [Maelstrom Wanderer](./Maelstrom Wanderer.md)
 * [Maelstrom Wanderer](./Maelstrom Wanderer.md)
 * [Oft-Nabbed Goat](./Oft-Nabbed Goat.md)
+* [Oft-Nabbed Goat](./Oft-Nabbed Goat.md)
+* [Subterfuge](./Subterfuge.md)
 * [Subterfuge](./Subterfuge.md)

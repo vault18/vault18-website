@@ -8,5 +8,5 @@
 | **Set** | Teenage Mutant Ninja Turtles |
 | **Rarity** | Common |
 | **Condition** | near_mint |
-| **Finish** | normal |
+| **Finish** | foil |
 | **Owned** | 1 |

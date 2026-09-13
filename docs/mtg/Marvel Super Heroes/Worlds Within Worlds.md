@@ -1,6 +1,6 @@
 # Worlds Within Worlds
 
-![Worlds Within Worlds](https://api.scryfall.com/cards/4765e39c-cbf2-4605-9bf1-3baad7d92cfb?format=image)
+![Worlds Within Worlds](https://api.scryfall.com/cards/36918a64-e13c-4a95-8068-eb2517572c66?format=image)
 
 ## Collection Details
 | Detail | Value |

@@ -1,9 +1,16 @@
 # Crimson Vow Commander
 
 * [Anowon, the Ruin Sage](./Anowon, the Ruin Sage.md)
+* [Anowon, the Ruin Sage](./Anowon, the Ruin Sage.md)
+* [Azorius Locket](./Azorius Locket.md)
 * [Azorius Locket](./Azorius Locket.md)
 * [Rakish Heir](./Rakish Heir.md)
+* [Rakish Heir](./Rakish Heir.md)
+* [Shacklegeist](./Shacklegeist.md)
 * [Shacklegeist](./Shacklegeist.md)
 * [Sinister Waltz](./Sinister Waltz.md)
+* [Sinister Waltz](./Sinister Waltz.md)
 * [Stromkirk Captain](./Stromkirk Captain.md)
+* [Stromkirk Captain](./Stromkirk Captain.md)
+* [Underworld Connections](./Underworld Connections.md)
 * [Underworld Connections](./Underworld Connections.md)

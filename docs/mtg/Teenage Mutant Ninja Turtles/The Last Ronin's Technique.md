@@ -1,6 +1,6 @@
 # The Last Ronin's Technique
 
-![The Last Ronin's Technique](https://api.scryfall.com/cards/e77abb3a-8034-4aa9-baac-21a223cde74b?format=image)
+![The Last Ronin's Technique](https://api.scryfall.com/cards/dfb18239-d373-4795-8598-c82abae2cb62?format=image)
 
 ## Collection Details
 | Detail | Value |

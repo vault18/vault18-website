@@ -1,10 +1,18 @@
 # Ninth Edition
 
 * [Coercion](./Coercion.md)
+* [Coercion](./Coercion.md)
+* [Dancing Scimitar](./Dancing Scimitar.md)
 * [Dancing Scimitar](./Dancing Scimitar.md)
 * [Glory Seeker](./Glory Seeker.md)
+* [Glory Seeker](./Glory Seeker.md)
+* [Goblin Chariot](./Goblin Chariot.md)
 * [Goblin Chariot](./Goblin Chariot.md)
 * [King Cheetah](./King Cheetah.md)
+* [King Cheetah](./King Cheetah.md)
+* [Sea's Claim](./Sea's Claim.md)
 * [Sea's Claim](./Sea's Claim.md)
 * [Serpent Warrior](./Serpent Warrior.md)
+* [Serpent Warrior](./Serpent Warrior.md)
+* [Viashino Sandstalker](./Viashino Sandstalker.md)
 * [Viashino Sandstalker](./Viashino Sandstalker.md)

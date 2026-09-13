@@ -1,10 +1,18 @@
 # Saviors of Kamigawa
 
 * [Aether Shockwave](./Aether Shockwave.md)
+* [Aether Shockwave](./Aether Shockwave.md)
+* [Akki Drillmaster](./Akki Drillmaster.md)
 * [Akki Drillmaster](./Akki Drillmaster.md)
 * [Barrel Down Sokenzan](./Barrel Down Sokenzan.md)
+* [Barrel Down Sokenzan](./Barrel Down Sokenzan.md)
+* [Death of a Thousand Stings](./Death of a Thousand Stings.md)
 * [Death of a Thousand Stings](./Death of a Thousand Stings.md)
 * [Dreamcatcher](./Dreamcatcher.md)
+* [Dreamcatcher](./Dreamcatcher.md)
+* [Evermind](./Evermind.md)
 * [Evermind](./Evermind.md)
 * [Molting Skin](./Molting Skin.md)
+* [Molting Skin](./Molting Skin.md)
+* [Shinen of Flight's Wings](./Shinen of Flight's Wings.md)
 * [Shinen of Flight's Wings](./Shinen of Flight's Wings.md)

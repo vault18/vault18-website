@@ -1,10 +1,18 @@
 # Odyssey
 
 * [Aether Burst](./Aether Burst.md)
+* [Aether Burst](./Aether Burst.md)
+* [Cabal Inquisitor](./Cabal Inquisitor.md)
 * [Cabal Inquisitor](./Cabal Inquisitor.md)
 * [Cartographer](./Cartographer.md)
+* [Cartographer](./Cartographer.md)
+* [Dematerialize](./Dematerialize.md)
 * [Dematerialize](./Dematerialize.md)
 * [Krosan Archer](./Krosan Archer.md)
+* [Krosan Archer](./Krosan Archer.md)
+* [Leaf Dancer](./Leaf Dancer.md)
 * [Leaf Dancer](./Leaf Dancer.md)
 * [Piper's Melody](./Piper's Melody.md)
+* [Piper's Melody](./Piper's Melody.md)
+* [Woodland Druid](./Woodland Druid.md)
 * [Woodland Druid](./Woodland Druid.md)
